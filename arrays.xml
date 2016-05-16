@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_of_movies">
+        <item>180</item>
+        <item>24 Hours on Craigslist</item>
+        <item>40 Days and 40 Nights</item>
+        <item>48 Hours</item>
+        <item>50 First Dates</item>
+        <item>A Jitney Elopement</item>
+        <item>A Night Full of Rain</item>
+        <item>A Smile Like Yours</item>
+        <item>A View to a Kill</item>
+        <item>About a Boy</item>
+        <item>After the Thin Man</item>
+        <item>Age of Adaline</item>
+        <item>Alcatraz</item>
+        <item>Alexander\'s Ragtime Band</item>
+        <item>All About Eve</item>
+        <item>American Graffiti</item>
+        <item>American Yearbook</item>
+        <item>Americana</item>
+        <item>Another 48 Hours</item>
+        <item>Ant-Man</item>
+        <item>Around the Fire</item>
+        <item>Attack of the Killer Tomatoes</item>
+        <item>Babies</item>
+        <item>Barbary Coast</item>
+        <item>Basic Instinct</item>
+        <item>Beaches</item>
+        <item>Bedazzled</item>
+        <item>Bee Season</item>
+        <item>Bicentennial Man</item>
+        <item>Big Eyes</item>
+        <item>Big Sur</item>
+        <item>Big Trouble in Little China</item>
+        <item>Birdman of Alcatraz</item>
+        <item>Blue Jasmine</item>
+        <item>Boys and Girls</item>
+        <item>Broken-A Modern Love Story </item>
+        <item>Bullitt</item>
+        <item>Burglar</item>
+        <item>By Hook or By Crook</item>
+        <item>Can\'t Stop the Music</item>
+        <item>Cardinal X</item>
+        <item>Casualties of War</item>
+        <item>Chan is Missing</item>
+        <item>Cherish</item>
+        <item>Chu Chu and the Philly Flash</item>
+        <item>City of Angels</item>
+        <item>Class Action</item>
+        <item>Common Threads: Stories From the Quilt</item>
+        <item>Confessions of a Burning Man</item>
+        <item>Copycat</item>
+        <item>Crackers</item>
+        <item>CSI: NY- episode 903</item>
+        <item>D.O.A</item>
+        <item>Dark Passage</item>
+        <item>Dawn of the Planet of the Apes</item>
+        <item>Days of Wine and Roses</item>
+        <item>Desperate Measures</item>
+        <item>Dim Sum: A Little Bit of Heart</item>
+        <item>Dirty Harry</item>
+        <item>Doctor Dolittle</item>
+        <item>Dopamine</item>
+        <item>Down Periscope</item>
+        <item>Dr. Dolittle 2</item>
+        <item>Dream for an Insomniac</item>
+        <item>Dream with the Fishes</item>
+        <item>Dying Young</item>
+        <item>Edtv</item>
+        <item>Escape From Alcatraz</item>
+        <item>Experiment in Terror</item>
+        <item>Faces of Death</item>
+        <item>Family Plot</item>
+        <item>Fandom</item>
+        <item>Fat Man and Little Boy</item>
+        <item>Fathers Day</item>
+        <item>Fearless</item>
+        <item>Final Analysis</item>
+        <item>Flower Drum Song</item>
+        <item>Flubber</item>
+        <item>Forrest Gump</item>
+        <item>Foul Play</item>
+        <item>Freebie and the Bean</item>
+        <item>Gentleman Jim</item>
+        <item>George of the Jungle</item>
+        <item>Getting Even with Dad</item>
+        <item>God is a Communist?* (show me heart universe)</item>
+        <item>Godzilla</item>
+        <item>Golden Gate</item>
+        <item>Greed</item>
+        <item>Groove</item>
+        <item>Guess Who\'s Coming to Dinner</item>
+        <item>Haiku Tunnel</item>
+        <item>Happy Gilmore</item>
+        <item>Hard to Hold</item>
+        <item>Harold and Maude</item>
+        <item>Heart and Souls</item>
+        <item>Heart Beat</item>
+        <item>Hello Frisco, Hello</item>
+        <item>Hemingway %26 Gelhorn</item>
+        <item>Herbie Rides Again</item>
+        <item>Hereafter</item>
+        <item>High Anxiety</item>
+        <item>High Crimes</item>
+        <item>Homeward Bound II: Lost in San Francisco</item>
+        <item>House of Sand and Fog</item>
+        <item>How Stella Got Her Groove Back</item>
+        <item>Hulk</item>
+        <item>I Am Michael</item>
+        <item>I Remember Mama</item>
+        <item>I\'s</item>
+        <item>Indiana Jones and the Last Crusade</item>
+        <item>Innerspace</item>
+        <item>Interview With The Vampire</item>
+        <item>Invasion of the Body Snatchers</item>
+        <item>It Came From Beneath the Sea</item>
+        <item>Jack</item>
+        <item>Jade</item>
+        <item>Jagged Edge</item>
+        <item>James and the Giant Peach</item>
+        <item>Joy Luck Club</item>
+        <item>Julie and Jack</item>
+        <item>Junior</item>
+        <item>Just Like Heaven</item>
+        <item>Just One Night</item>
+        <item>Kamikaze Hearts</item>
+        <item>Knife Fight</item>
+        <item>Live Nude Girls Unite</item>
+        <item>Looking</item>
+        <item>Love %26 Taxes</item>
+        <item>Magnum Force</item>
+        <item>Marnie</item>
+        <item>Maxie</item>
+        <item>Memoirs of an Invisible Man</item>
+        <item>Metro</item>
+        <item>Midnight Lace</item>
+        <item>Milk</item>
+        <item>Mission (aka City of Bars)</item>
+        <item>Mona Lisa Smile</item>
+        <item>Mother</item>
+        <item>Mrs. Doubtfire</item>
+        <item>Murder in the First</item>
+        <item>My Reality</item>
+        <item>Need For Speed</item>
+        <item>Never Die Twice</item>
+        <item>Night of Henna</item>
+        <item>Nina Takes a Lover</item>
+        <item>Nine Months</item>
+        <item>Nine to Five</item>
+        <item>Nora Prentiss</item>
+        <item>On the Beach</item>
+        <item>On the Road</item>
+        <item>Pacific Heights</item>
+        <item>Pal Joey</item>
+        <item>Panther</item>
+        <item>Parks and Recreation</item>
+        <item>Patch Adams</item>
+        <item>Patty Hearst</item>
+        <item>Petulia</item>
+        <item>Phenomenon</item>
+        <item>Play it Again, Sam</item>
+        <item>Playing Mona Lisa</item>
+        <item>Pleasure of His Company</item>
+        <item>Point Blank</item>
+        <item>Pretty Woman</item>
+        <item>Psych-Out</item>
+        <item>Quicksilver</item>
+        <item>Quitters</item>
+        <item>Raising Cain</item>
+        <item>Red Diaper Baby</item>
+        <item>Red Widow</item>
+        <item>Rent</item>
+        <item>Rollerball</item>
+        <item>Romeo Must Die</item>
+        <item>San Andreas</item>
+        <item>San Francisco</item>
+        <item>Sausalito</item>
+        <item>Sense8</item>
+        <item>Serendipity</item>
+        <item>Serial</item>
+        <item>Seven Girlfriends</item>
+        <item>Shadow of the Thin Man</item>
+        <item>Shattered</item>
+        <item>Shoot the Moon</item>
+        <item>Sister Act</item>
+        <item>Sister Act 2: Back in the Habit</item>
+        <item>Smile Again, Jenny Lee</item>
+        <item>Sneakers</item>
+        <item>So I Married an Axe Murderer</item>
+        <item>Sphere</item>
+        <item>Star Trek II : The Wrath of Khan</item>
+        <item>Star Trek IV: The Voyage Home</item>
+        <item>Star Trek VI: The Undiscovered Country</item>
+        <item>Steve Jobs</item>
+        <item>Stigmata</item>
+        <item>Street Music</item>
+        <item>Sudden Fear</item>
+        <item>Sudden Impact</item>
+        <item>Summertime</item>
+        <item>Superman</item>
+        <item>Susan Slade</item>
+        <item>Sweet November</item>
+        <item>Swing</item>
+        <item>Swingin\' Along</item>
+        <item>Take the Money and Run</item>
+        <item>Terminator - Genisys</item>
+        <item>The Assassination of Richard Nixon</item>
+        <item>The Bachelor</item>
+        <item>The Birds</item>
+        <item>The Bridge</item>
+        <item>The Caine Mutiny</item>
+        <item>The Californians</item>
+        <item>The Candidate</item>
+        <item>The Competition</item>
+        <item>The Conversation</item>
+        <item>The Core</item>
+        <item>The Dead Pool</item>
+        <item>The Diary of a Teenage Girl</item>
+        <item>The Doctor</item>
+        <item>The Doors</item>
+        <item>The Enforcer</item>
+        <item>The Fan</item>
+        <item>The Fog of War</item>
+        <item>The Game</item>
+        <item>The Graduate</item>
+        <item>The House on Telegraph Hill</item>
+        <item>The Internship</item>
+        <item>The Jazz Singer</item>
+        <item>The Lady from Shanghai</item>
+        <item>The Last of the Gladiators</item>
+        <item>The Laughing Policeman</item>
+        <item>The Lineup</item>
+        <item>The Love Bug</item>
+        <item>The Maltese Falcon</item>
+        <item>The Master</item>
+        <item>The Matrix</item>
+        <item>The Net</item>
+        <item>The Nightmare Before Christmas</item>
+        <item>The Organization</item>
+        <item>The Other Sister</item>
+        <item>The Parent Trap</item>
+        <item>The Presidio</item>
+        <item>The Princess Diaries</item>
+        <item>The Pursuit of Happyness</item>
+        <item>The Right Stuff</item>
+        <item>The Rock</item>
+        <item>The Sweetest Thing</item>
+        <item>The Ten Commandments</item>
+        <item>The Times of Harvey Milk</item>
+        <item>The Towering Inferno</item>
+        <item>The Wedding Planner</item>
+        <item>The Woman In Red</item>
+        <item>The Zodiac</item>
+        <item>They Call Me MISTER Tibbs</item>
+        <item>Thief of Hearts</item>
+        <item>Time After Time</item>
+        <item>Tin Cup</item>
+        <item>To the Ends of the Earth</item>
+        <item>True Believer</item>
+        <item>Tucker: The Man and His Dream</item>
+        <item>Tweek City</item>
+        <item>Twisted</item>
+        <item>Under the Tuscan Sun</item>
+        <item>Until the End of the World</item>
+        <item>Vegas in Space</item>
+        <item>Vertigo</item>
+        <item>What Dreams May Come</item>
+        <item>What the Bleep Do We Know</item>
+        <item>What\'s Up Doc?</item>
+        <item>When a Man Loves a Woman</item>
+        <item>Woman on the Run</item>
+        <item>Woman on Top</item>
+        <item>Yours, Mine and Ours</item>
+        <item>Zodiac</item>
+
+    </string-array>
+</resources>
